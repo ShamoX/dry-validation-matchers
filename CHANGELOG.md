@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ### Fixed
+- Fix warning on @check_filled
 - Fix date_time type error message
 - Fix false positive checks missmatch between type check and other checks
 - Fix gemspec dependencies context
